@@ -3,4 +3,4 @@
 function finx
   python3 ~/Your/file/path/ssK.py $argv
 end
-else: decide for youselves
+# else: decide for youselves
